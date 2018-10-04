@@ -1,3 +1,4 @@
+//class MathUtils
 public class MathUtils {
     /**
      * divideNumbers -- a / b

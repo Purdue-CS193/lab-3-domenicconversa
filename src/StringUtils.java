@@ -1,3 +1,4 @@
+//class StringUtils
 public class StringUtils {
     /**
      * makePurdueUsername -- <= 8-letter-long lowercase username creator
